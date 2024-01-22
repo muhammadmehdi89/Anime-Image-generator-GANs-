@@ -12,4 +12,4 @@ Trained on a curated dataset of anime character images. You can extend or replac
 
 Architecture of GANs:
 
-image
+![image](https://github.com/muhammadmehdi89/Anime-Image-generator-GANs-/assets/142395586/f23c6bb5-7657-4ead-b3b7-395ba7110eae)
