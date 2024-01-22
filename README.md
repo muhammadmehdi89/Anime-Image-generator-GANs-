@@ -1,4 +1,5 @@
 Anime-Image-generator-GANs-
+
 Overview This project implements a Generative Adversarial Network (GAN) to generate anime-style images. GANs consist of two neural networks, a generator, and a discriminator, trained in tandem to produce realistic images. The goal of this project is to create unique anime character faces leveraging the power of GANs.
 
 Features Generative Adversarial Network:
